@@ -17,4 +17,5 @@ Console.WriteLine($"Hello {name}");
 // Write cmd on the current folders url bar and press enter
 // Once the command line open, add the name of your project's .exe file (with the file name extension) and press enter
 
-
+// Learning c# on Microsoft Documents
+// www.docs.microsoft.com/en-us/dotnet/csharp/
