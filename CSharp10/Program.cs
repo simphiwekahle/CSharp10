@@ -9,3 +9,12 @@ Console.WriteLine("Please enter your name: ");
 
 string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}");
+
+// Running the application using cmd and its .exe file
+// Go the project folder
+// Open the bin folder
+// Open the Debug folder
+// Write cmd on the current folders url bar and press enter
+// Once the command line open, add the name of your project's .exe file (with the file name extension) and press enter
+
+
